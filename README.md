@@ -1,4 +1,4 @@
 openbravo.brasil
 ================
 
-Projeto de adequação do Openbravo para o Brasil
+Projeto Publico para adequação do Openbravo para funcionamento no Brasil
